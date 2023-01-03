@@ -5,13 +5,13 @@
 
 ## Description
 
-This is a project in Python I did for one of our courses at Alzahra University alongside with another student. 
+This is a project in Python I did for one of our courses at Alzahra University alongside another student. 
 The goal was to learn about Image Processing.
 
 
-### Preparing Imgaes
+### Preparing Images
 
-First, we uploaded images and reduced their size by 30%. Then we improve images' contrast, denoised, and used thresholding operation them.
+First, we uploaded images and reduced their size by 30%. Then we improve the images' contrast, denoised, and used thresholding operations them.
 
 ### Preparing Dataset
 
@@ -21,7 +21,7 @@ We chosed three features from each image to create our dataset:
 
 ### Machine Learning
 
-We used Decision Tree algorithm to devide our dataset in test and train sections and defined a classification problem on them. 
+We used the Decision Tree algorithm to divide our dataset into test and train sections and defined a classification problem on them. 
 Here is the result:
 
 ![13](https://user-images.githubusercontent.com/120925422/210356112-9b9ba517-fb85-4165-a387-f32b1f1884fc.PNG)
