@@ -11,7 +11,7 @@ The goal was to learn about Image Processing.
 
 ### Preparing Images
 
-First, we uploaded images and reduced their size by 30%. Then we improve the images' contrast, denoised, and used thresholding operations them.
+First, we uploaded images and reduced their size by 30%. Then we improve the images' contrast, denoised, and used thresholding operations on them.
 
 ### Preparing Dataset
 
